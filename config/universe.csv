@@ -1,0 +1,15 @@
+name,isin,ticker_yahoo,exchange,currency,role
+Vanguard S&P 500 UCITS ETF (USD) Dist,IE00B3XXRP09,VUSA.AS,Euronext Amsterdam,EUR,universo
+Amundi IBEX 35 UCITS ETF Dist,FR0010251744,LYXIB.MC,BME,EUR,universo
+Vanguard S&P 500 UCITS ETF (USD) Dist,IE00B3XXRP09,VUSA.DE,Xetra,EUR,validacion
+iShares Core MSCI World UCITS ETF USD (Acc),IE00B4L5Y983,IWDA.AS,Euronext Amsterdam,EUR,universo
+iShares STOXX Europe 600 UCITS ETF (DE) EUR (Dist),DE0002635307,EXSA.DE,Xetra,EUR,universo
+iShares Core MSCI EM IMI UCITS ETF USD (Acc),IE00BKM4GZ66,IS3N.DE,Xetra,EUR,universo
+iShares MSCI World Small Cap UCITS ETF (Acc),IE00BF4RFH31,IUSN.DE,Xetra,EUR,excluido
+iShares NASDAQ 100 UCITS ETF (Acc),IE00B53SZB19,CNDX.AS,Euronext Amsterdam,EUR,universo
+iShares Core € Govt Bond UCITS ETF EUR (Dist),IE00B4WXJJ64,EUNH.DE,Xetra,EUR,universo
+iShares Core € Corp Bond UCITS ETF EUR (Dist),IE00B3F81R35,IEAC.AS,Euronext Amsterdam,EUR,universo
+iShares Developed Markets Property Yield UCITS ETF USD (Dist),IE00B1FZS350,IWDP.MI,Borsa Italiana,EUR,universo
+Xetra-Gold,DE000A0S9GB0,4GLD.DE,Xetra,EUR,universo
+Indice IBEX 35 (referencia),,^IBEX,Madrid,EUR,referencia
+Amundi IBEX 35 UCITS ETF,FR0010655746,AMES.DE,Xetra,EUR,validacion

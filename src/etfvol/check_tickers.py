@@ -4,7 +4,7 @@ from pathlib import Path
 import pandas as pd
 import yfinance as yf
 
-CSV = Path("data/universe_candidates.csv")
+CSV = Path("config/universe.csv")
 RAW = Path("data/raw")
 RAW.mkdir(parents=True, exist_ok=True)
 
