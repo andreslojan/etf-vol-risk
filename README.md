@@ -1,7 +1,7 @@
    # etf-vol-risk
    Predicción de volatilidad y VaR/ES para ETFs UCITS europeos, con SQL (PostgreSQL), scikit-learn y despliegue en Docker.
 
-   Estado: en construcción (fase 0).
+   Estado: fase 1 (datos auditados, sin cargar a Postgres todavía).
 
    ## Limitaciones (declaradas desde el inicio)
    - Datos de una fuente no oficial; sujetos a revisión de condiciones de uso.
